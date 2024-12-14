@@ -1,1 +1,0 @@
-tellraw @s ["",{"text":"[Click me]","bold":true,"color":"#50DAEE","clickEvent":{"action":"run_command","value":"/data get entity @e[type=minecraft:villager,limit=1,sort=nearest] Gossips"}},{"text":" to get the gossip data","bold":true,"color":"gold"}]

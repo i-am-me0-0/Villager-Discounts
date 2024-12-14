@@ -1,1 +1,0 @@
-tellraw @a {"text":"Cure Villagers Has Loaded!","bold":true,"color":"gold"}

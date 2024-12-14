@@ -1,0 +1,1 @@
+tellraw @a {"text":"Villager Discounts Has Loaded!","bold":true,"color":"gold"}
